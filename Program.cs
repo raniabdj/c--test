@@ -57,7 +57,7 @@ namespace willis_test
                 result = result + line + System.Environment.NewLine;
             }
 
-            FileHelper.WriteFile(@"C:\Users\hp\Desktop\rania space work\willis test\cumulative.txt", result.Trim());
+            FileHelper.WriteFile(System.IO.Directory.GetCurrentDirectory()+"//cumulative.txt", result.Trim());
 
 
         }
