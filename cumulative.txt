@@ -1,0 +1,12 @@
+Product, Origin Year, Development Year, Cumulative ValueComp,1992,1992,110
+Comp,1992,1992,280
+Comp,1993,1993,200
+Non-Comp,1992,1992,55
+Non-Comp,1992,1992,140
+Non-Comp,1993,1993,100
+Non-Comp,1990,1990,37
+Non-Comp,1990,1990,82,2
+Non-Comp,1990,1990,147
+Non-Comp,1991,1991,75
+Non-Comp,1991,1991,100
+Non-Comp,1991,1991,150

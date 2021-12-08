@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\willis test.exe
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\willis test.deps.json
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\willis test.runtimeconfig.json
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\willis test.runtimeconfig.dev.json
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\willis test.dll
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\ref\willis test.dll
+C:\Users\hp\Desktop\rania space work\willis test\bin\Debug\net5.0\willis test.pdb
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.AssemblyInfo.cs
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.dll
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\ref\willis test.dll
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.pdb
+C:\Users\hp\Desktop\rania space work\willis test\obj\Debug\net5.0\willis test.genruntimeconfig.cache
