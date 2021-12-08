@@ -7,7 +7,12 @@ class FileHelper
 
     public static string ReadFile(string path)
     {
-        string file = File.ReadAllText(path);
+        string file = "";
+        if (!File.Exists(path))
+        {
+            Console.WriteLine("file doesn't exist");
+        }
+        file = File.ReadAllText(path);
         return file.Trim();
     }
     public static void WriteFile(string path, string content)
